@@ -1,0 +1,16 @@
+              precision    recall  f1-score   support
+
+        cane       0.93      0.94      0.94       730
+     cavallo       0.94      0.95      0.95       394
+    elefante       0.91      0.95      0.93       218
+    farfalla       0.96      0.95      0.95       318
+     gallina       0.98      0.95      0.96       466
+       gatto       0.92      0.92      0.92       251
+       mucca       0.91      0.92      0.91       281
+      pecora       0.93      0.90      0.92       273
+       ragno       0.97      0.98      0.97       724
+  scoiattolo       0.94      0.93      0.93       280
+
+    accuracy                           0.94      3935
+   macro avg       0.94      0.94      0.94      3935
+weighted avg       0.94      0.94      0.94      3935
